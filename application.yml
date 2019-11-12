@@ -1,0 +1,5 @@
+configurations:
+  doggies:
+    endpoints:
+      list: /api/breeds/list
+      images: /api/breed/{breed name}/images
