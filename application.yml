@@ -1,5 +1,5 @@
 configurations:
   doggies:
     endpoints:
-      list: https://dog.ceo/api/breeds/list
+      listAll: https://dog.ceo/api/breeds/list/all
       images: https://dog.ceo/api/breed/{breedName}/images
